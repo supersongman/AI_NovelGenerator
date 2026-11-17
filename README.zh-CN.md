@@ -1,5 +1,14 @@
-<div align="center">
+ 后端：
+ .\.venv\Scripts\Activate.ps1
+ python main.py 
+前端：
+$env:NEXT_PUBLIC_API_BASE = "http://127.0.0.1:8200"
+>> npm run dev -- --hostname 127.0.0.1 --port 3300
+导出小说正文的命令：
+& "D:\小说工作台\AI_NovelGenerator\.venv\Scripts\python.exe" "D:\小说工作台\导出正文.py"
 
+
+<div align="center">
 # AI 小说生成器
 
 [English](README.md) · **简体中文**
