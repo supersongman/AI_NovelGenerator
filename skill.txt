@@ -1,0 +1,15 @@
+star	仓库	语言	License	定位
+8,692	github.com/zenstory-ai/oh-story-claudecode	中文	MIT	网文全流程：扫榜选材、大纲细纲、伏笔追踪、去AI味 lint
+5,693	github.com/conorbronsdon/avoid-ai-writing	英文	MIT	审计并重写文中的 AI 写作痕迹；面向通用内容，不限于小说
+4,970	github.com/PenglongHuang/chinese-novelist-skill	中文	MIT	你之前给的 supersongman/... 是它的转发版本，转发版本 0 star，原始仓库才是这个
+3,853	github.com/Nanako0129/sepia	英文	MIT	唯一明确针对英文 fiction 的：修复叙事结构、去除 AI 痕迹，基于 StoryScope 论文
+2,679	github.com/EthanYoQ/Pagekin	中文	GPL-3.0	这是软件，不是 skill；可导入去AI味 skill，架构可参考
+2,654	github.com/MrGeDiao/shuorenhua	中文	MIT	中文去AI味改写，以保留事实为前提
+713	github.com/realrossmanngroup/no_ai_slop_writing_rules	英文	无	Louis Rossmann 口吻，可移植 CLAUDE.md
+611	github.com/jalaalrd/anti-ai-slop-writing	英文	无	消除可检测的 AI 句式
+591	github.com/haowjy/creative-writing-skills	英文	Apache-2.0	14 个 skill，含写作原理、模型默认表达识别
+424	github.com/danjdewhurst/story-skills	英文	MIT	端到端故事写作，带 continuity、plot-structure、worldbuilding
+56	github.com/wgwtest/novel-writing	英文	MIT	视角不越界、对话有后果、保声改稿
+31	github.com/kshanxs/book-writer-skill	英文	MIT	英文 fiction + Book Memory Bank
+17	github.com/PhosAQy/novel-skills	英文	MIT	卷计划→章生成→审稿→分析
+15	github.com/tachyon-beep/skillpacks	英文	CC BY-SA 4.0	23 个分册：romance、thriller、dialogue、pacing、showing-vs-telling
